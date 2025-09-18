@@ -107,6 +107,15 @@ npm run preview
 http://localhost:5173
 
 
+Notes
+
+1.Assignment completed within the core requirements.
+
+2.Code is clean, modular, and responsive.
+
+3.Animations are purposeful (UX-enhancing, not distracting).
+
+
 🌍 Deployment
 Deployed with Vercel
 
@@ -120,12 +129,3 @@ Deployed with Vercel
 ❌ Clear button inside search bar
 
 🎨 Polished UI with hover & modal animations
-
-
-Notes
-
-1.Assignment completed within the core requirements.
-
-2.Code is clean, modular, and responsive.
-
-3.Animations are purposeful (UX-enhancing, not distracting).
