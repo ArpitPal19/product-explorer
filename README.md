@@ -70,17 +70,24 @@ Uses live categories from API.
  🚀Tech Stack
 
 React + Vite → fast frontend framework & bundler
+
 Tailwind CSS → utility-first responsive styling
+
 Axios → API requests
+
 Framer Motion → animations & transitions
 
 🚀Project Structure
 
 src/
   components/       # UI components (cards, modal, filters, sort menu, loader)
+
   hooks/            # Custom React hooks
+
   pages/            # Main pages (Home)
+
   App.jsx           # Root app component
+
   main.jsx          # Vite entry point
 
 
@@ -89,7 +96,9 @@ src/
 Clone the repository and install dependencies:
 
 git clone https://github.com/ArpitPal19/product-explorer.git
+
 cd product-explorer
+
 npm install
 
 
@@ -100,12 +109,29 @@ npm run dev
 --Build for production:
 
 npm run build
+
 npm run preview
 
 --The app will be available at:
 
 http://localhost:5173
 
+
+🌍 Deployment
+
+Deployed with Vercel
+
+1.Build command: npm run build
+
+2.Output directory: dist/
+
+✨ Bonus Features
+
+🔍 Global Search across all products
+
+❌ Clear button inside search bar
+
+🎨 Polished UI with hover & modal animations
 
 Notes
 
@@ -116,16 +142,3 @@ Notes
 3.Animations are purposeful (UX-enhancing, not distracting).
 
 
-🌍 Deployment
-Deployed with Vercel
-
-1.Build command: npm run build
-2.Output directory: dist/
-
-✨ Bonus Features
-
-🔍 Global Search across all products
-
-❌ Clear button inside search bar
-
-🎨 Polished UI with hover & modal animations
